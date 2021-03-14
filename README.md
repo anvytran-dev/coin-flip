@@ -1,6 +1,6 @@
-# wu-tang-name-generator
+# coin-flip
 
-This is a kawaii-themed, coin flip generator. The player guesses 'Narwhal' or 'Octopus'. After they choose, the coin (or in this version--the mushroom) will flip. The coin will land on 'Narwhal' or 'Octopus'
+This is a kawaii-themed, coin flip generator. The player guesses 'Narwhal' or 'Octopus'. After they choose, the coin (or in this version--the mushroom) will flip. The coin will land on 'Narwhal' or 'Octopus'.
 
 Link to Project: https://kawaii-flip.netlify.app/
 
